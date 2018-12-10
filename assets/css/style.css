@@ -1,4 +1,4 @@
-h1 {
+h3 {
 
     font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -11,7 +11,10 @@ h1 {
 
     border-color: #cccccc;
 
-    color: #4aaaa5;
+    background-color: #4aaaa5;
+
+    color: #ffffff;
+
 
 
 }
@@ -19,6 +22,7 @@ h1 {
  
 
 body {
+    background-image: url("./assets/images/topography/topography/topography.png");
 
     font-family: Arial, Helvetica, sans-serif;
 
@@ -34,7 +38,7 @@ body {
 
  
 
-Footer{
+footer{
 
     background-color: #666666;
 
