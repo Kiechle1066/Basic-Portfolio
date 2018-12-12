@@ -36,7 +36,9 @@ body {
 
 }
 
- 
+ #visitorMessage {
+    height: 200px;
+ }
 
 footer{
 
