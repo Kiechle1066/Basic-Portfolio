@@ -18,14 +18,11 @@ h3 {
 
 }
 
- 
 
 body {
-    background-image: url("./assets/images/topography/topography/topography.png");
+    background-image: url("../images/topography/topography/topography.png");
 
     font-family: Arial, Helvetica, sans-serif;
-
-    background-color: #ffffff;
 
     border-color: #dddddd;
 
@@ -74,4 +71,10 @@ footer{
     float:left;
 
 
+}
+
+.footer {
+    background-color: grey;
+    color: white;
+    padding: 15px;
 }
