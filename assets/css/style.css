@@ -5,7 +5,7 @@ h3 {
     background-color: #ffffff;
 
     border: 1px;
-    margin: 10 10 20 10;
+    margin: 120 10 20 10;
     padding: 10px;
 
 
@@ -14,7 +14,6 @@ h3 {
     background-color: #4aaaa5;
 
     color: #ffffff;
-
 
 
 }
@@ -56,11 +55,23 @@ footer{
 
 }
 
-#PolarBear {
+.portfolioImages {
 
     Float: right;
 
     Width: 200px;
 
-    height: 200px;
+    
+}
+
+.btn-primary {
+
+    background-color: #4aaaa5;
+}
+
+#headshot{
+
+    float:left;
+
+
 }
